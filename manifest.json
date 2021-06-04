@@ -1,0 +1,20 @@
+{
+  "name": "깐밤(커먼스페이스계산기) v3.0",
+  "short_name": "깐밤 v3.0",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://kkanbam.sanguneo.com",
+  "display": "standalone",
+  "theme_color": "#97c75b",
+  "background_color": "#ffffff"
+}
